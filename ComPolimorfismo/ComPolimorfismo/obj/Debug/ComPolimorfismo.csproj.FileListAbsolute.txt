@@ -1,0 +1,7 @@
+C:\Users\Leonardo\source\repos\ComPolimorfismo\ComPolimorfismo\bin\Debug\ComPolimorfismo.exe.config
+C:\Users\Leonardo\source\repos\ComPolimorfismo\ComPolimorfismo\bin\Debug\ComPolimorfismo.exe
+C:\Users\Leonardo\source\repos\ComPolimorfismo\ComPolimorfismo\bin\Debug\ComPolimorfismo.pdb
+C:\Users\Leonardo\source\repos\ComPolimorfismo\ComPolimorfismo\obj\Debug\ComPolimorfismo.csprojAssemblyReference.cache
+C:\Users\Leonardo\source\repos\ComPolimorfismo\ComPolimorfismo\obj\Debug\ComPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\source\repos\ComPolimorfismo\ComPolimorfismo\obj\Debug\ComPolimorfismo.exe
+C:\Users\Leonardo\source\repos\ComPolimorfismo\ComPolimorfismo\obj\Debug\ComPolimorfismo.pdb

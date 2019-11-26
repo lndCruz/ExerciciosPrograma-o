@@ -1,0 +1,6 @@
+c:\users\leonardo\source\repos\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+c:\users\leonardo\source\repos\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe
+c:\users\leonardo\source\repos\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.pdb
+c:\users\leonardo\source\repos\Polimorfismo\Polimorfismo\obj\Debug\SemPolimorfismo.csproj.CoreCompileInputs.cache
+c:\users\leonardo\source\repos\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.exe
+c:\users\leonardo\source\repos\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.pdb
